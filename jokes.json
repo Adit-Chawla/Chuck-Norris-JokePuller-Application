@@ -1,0 +1,16 @@
+{
+  "total": 1,
+  "result": [
+    {
+      "categories": [
+        "explicit"
+      ],
+      "created_at": "2020-01-05 13:42:18.823766",
+      "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+      "id": "wEmndQnfS3-8EAGrRTHrTA",
+      "updated_at": "2020-01-05 13:42:18.823766",
+      "url": "https://api.chucknorris.io/jokes/wEmndQnfS3-8EAGrRTHrTA",
+      "value": "If he wanted to, Chuck Norris could give himself a barium enema with his own dick."
+    }
+  ]
+}

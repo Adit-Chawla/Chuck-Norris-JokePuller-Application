@@ -1,0 +1,49 @@
+.root {
+    -fx-font-family: 'Segoe UI', Arial, sans-serif;
+    -fx-background-image: url("images/background.png");
+    -fx-background-size: cover;
+    -fx-text-fill: #333333;
+}
+
+.label, .list-view {
+    -fx-font-family: 'Segoe UI', Arial, sans-serif;
+    -fx-text-fill: #333333;
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 5px;
+}
+
+#msgLabel, #gridPane {
+    -fx-background-color: rgba(224, 224, 224, 0.8);
+    -fx-background-radius: 10px;
+    -fx-padding: 10px;
+}
+
+.button {
+    -fx-background-color: #4caf50;
+    -fx-text-fill: white;
+    -fx-background-radius: 5px;
+    -fx-effect: dropshadow(three-pass-box, #bababa, 10, 0.5, 0, 0);
+    -fx-font-size: 15px;
+    -fx-padding: 10px 10px;
+    -fx-min-height: 30px;
+    -fx-min-width: 150px;
+}
+
+.list-view {
+    -fx-background-color: rgba(255, 255, 255, 0.8);
+    -fx-background-radius: 5px;
+}
+
+.text-field {
+    -fx-background-color: rgba(255, 255, 255, 0.8);
+    -fx-background-radius: 5px;
+    -fx-font-size: 14px;
+    -fx-padding: 10px;
+    -fx-min-height: 40px;
+}
+
+#titlesListView {
+    -fx-background-color: rgba(224, 224, 224, 0.8);
+    -fx-background-radius: 10px;
+    -fx-padding: 10px;
+}
